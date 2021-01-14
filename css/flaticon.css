@@ -1,0 +1,49 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/07/2017 14:41
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon-.eot#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg.html#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg.html#Flaticon") format("svg");
+  }
+}
+
+.olqqfxdwrpph {   
+  font-family: Flaticon;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.olqqfxdwrpph-animal:before { content: "\f100"; }
+.olqqfxdwrpph-email-filled-closed-envelope:before { content: "\f101"; }
+.hsfpxstjfilp:before { content: "\f102"; }
+.zcgvkdchdez:before { content: "\f103"; }
+.taiujuhtgrf:before { content: "\f104"; }
+.htjlosaztwwop:before { content: "\f105"; }
+.olqqfxdwrpph-vaulting-horse:before { content: "\f106"; }
+.olqqfxdwrpph-tool:before { content: "\f107"; }
+.olqqfxdwrpph-shield:before { content: "\f108"; }
+.hppsfuqvlj:before { content: "\f109"; }
+.urgtozjgwjj:before { content: "\f10a"; }
+.xevzogadjdyqv:before { content: "\f10b"; }
+.whihaeayeqtjiee:before { content: "\f10c"; }
+.atrjvlizrft:before { content: "\f10d"; }
+.osjrhddefxad:before { content: "\f10e"; }
+.lgttyiwrthu:before { content: "\f10f"; }
+.olqqfxdwrpph-people:before { content: "\f110"; }
+.xcuvuycqrz:before { content: "\f111"; }
+.olqqfxdwrpph-horseshoe:before { content: "\f112"; }
+.olqqfxdwrpph-black:before { content: "\f113"; }
